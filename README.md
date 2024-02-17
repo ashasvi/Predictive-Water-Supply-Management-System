@@ -1,4 +1,4 @@
-# HydroForecast: Predictive Water Supply Management System
+Predictive Water Supply Management System
 
 ## Problem Statement:
 Water scarcity is a pressing issue affecting many regions worldwide, with varying degrees of severity. Predicting and efficiently managing water supply in different regions is crucial for sustainable development and ensuring adequate access to this essential resource. However, traditional methods of water management often lack precision and fail to account for the dynamic factors influencing water demand and availability.
